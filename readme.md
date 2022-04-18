@@ -11,6 +11,8 @@ This repo contains several common big data exercises.
 
 1. Install the  JDK 7.0
 2. [Download & Install Maven](http://maven.apache.org/download.cgi)
+3. [Download movies.txt.gz](http://snap.stanford.edu/data/movies.txt.gz) and place it on root folder
+4. May need to run more than once because of a maven error
    
  
 ## How to run tests
